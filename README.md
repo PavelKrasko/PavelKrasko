@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavel</h1>
 
 <h3 align="center">
-DevOps Engineer | Kubernetes | AWS | Terraform | GitOps
+DevOps Engineer | Kubernetes | AWS | Yandex Cloud | Terraform | GitOps
 </h3>
 
 <p align="center">
@@ -13,12 +13,13 @@ Building cloud-native infrastructure, automating CI/CD pipelines and delivering 
 ## 🚀 About Me
 
 - 💼 DevOps Engineer with commercial experience
-- ☁️ Working with AWS and GCP cloud platforms
+- ☁️ Working with AWS, Yandex Cloud and GCP
 - ☸️ Deploying and operating Kubernetes workloads
 - 🔄 Building GitOps workflows with ArgoCD
 - 🏗️ Managing infrastructure using Terraform and Terragrunt
 - 🚀 Automating delivery pipelines with GitHub Actions, GitLab CI/CD and Jenkins
 - 📊 Monitoring systems with Prometheus, Grafana, Loki and ELK Stack
+- 🔧 Working with Kafka, Ansible and SQL databases
 - 🌱 Currently improving Go and cloud-native architecture skills
 
 ---
@@ -29,6 +30,7 @@ Building cloud-native infrastructure, automating CI/CD pipelines and delivering 
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Yandex_Cloud-FFCC00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
@@ -39,6 +41,8 @@ Building cloud-native infrastructure, automating CI/CD pipelines and delivering 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lens-3D90CE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/K9s-7C3AED?style=for-the-badge"/>
 </p>
 
 ### 🚀 CI/CD
@@ -62,7 +66,7 @@ Building cloud-native infrastructure, automating CI/CD pipelines and delivering 
 <p>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
 </p>
 
@@ -100,29 +104,32 @@ Building cloud-native infrastructure, automating CI/CD pipelines and delivering 
 
 ### 🎯 IssueTracker
 
-Full-stack issue tracking platform.
+Modern issue tracking platform built from scratch.
 
 **Stack**
-
 - Go
 - React
 - PostgreSQL
 - Docker
 - GitHub Actions
+- Kubernetes
 
 ### ☸️ GitOps Infrastructure
 
+**Stack**
 - Kubernetes
 - ArgoCD
 - Helm
 - cert-manager
-- GHCR
+- GitHub Container Registry
 
 ### ☁️ Cloud Infrastructure
 
+**Stack**
 - Terraform
 - Terragrunt
 - AWS
+- Yandex Cloud
 - CI/CD Automation
 
 ---
@@ -130,11 +137,11 @@ Full-stack issue tracking platform.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PavelKrasko&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PavelKrasko&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelKrasko&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelKrasko&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -142,29 +149,32 @@ Full-stack issue tracking platform.
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=PavelKrasko&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=PavelKrasko&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌱 Current Learning
+## 🌱 Current Focus
 
 - Advanced Kubernetes
-- GitOps at scale
+- GitOps with ArgoCD
 - AWS Architecture
-- Go Backend Development
 - Platform Engineering
+- Go Backend Development
+- Infrastructure as Code
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
-<p>
-<a href="https://linkedin.com/in/your-linkedin">LinkedIn</a>
+<p align="center">
+<a href="https://t.me/pkraskop">
+<img src="https://img.shields.io/badge/Telegram-@pkraskop-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 <p align="center">
-<i>Infrastructure as Code • Cloud Native • Automation First 🚀</i>
+<i>Cloud • Kubernetes • GitOps • Infrastructure as Code • Automation 🚀</i>
 </p>
